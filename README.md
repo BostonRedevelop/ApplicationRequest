@@ -14,6 +14,6 @@ Please use Javascript, CSS, and Bootstrap where you can
 Please package the HTML, CSS, and any supporting files in a zip.  Include a readme on what your process was.
 Don't forget to comment your code. =)
 
-Email your submissions to daniel.tewfik@boston.gov and jeff.ng@boston.gov by *Friday, March 13, 2015*. To be fair to all applicants, no late submissions will be accepted.
+Email your submissions to daniel.tewfik@boston.gov and jeff.ng@boston.gov by **Friday, March 13, 2015**. To be fair to all applicants, no late submissions will be accepted.
 
 Thank you!
