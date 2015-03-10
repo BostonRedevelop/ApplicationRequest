@@ -7,7 +7,7 @@ Please use Javascript, CSS, and Bootstrap where you can
 ##Additional Details
 
 * Ignore the sections that include signature of employee/supervisor/HR.
-* If possible, have repeatble entries for multiple Start/End days off.
+* If possible, have repeatable entries for multiple Start/End days off.
 * When possible, use validation. (Our email formats are typically first.last@boston.gov or first.m.last@boston.gov)
 
 ##Submission
